@@ -2,33 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>UCLA ECE</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  enabled: false # includes a list of news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<!-- ![header](assets/img/header1.jpg) -->
+I am a first year Masters student at the Electrical and Computer Engineering Department at UCLA. I am fortunate to be advised by Professor [Lin F. Yang](http://drlinyang.net/). 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research interests are in developing novel algorithms for reducing the computational cost of training, fine-tuning, and inferencing generative models. I am also interested in applications of ML to real-world problems, such as finance and healthcare. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I did my undergrad at UCLA as well, where I majored in Electrical Engineering. I worked with Professor [Vwani Roychowdhury](https://www.ee.ucla.edu/vwani-p-roychowdhury/) from the ECE department and Professor [Hiroki Nariai](https://www.uclahealth.org/providers/hiroki-nariai) from the UCLA Mattel Children's Hospital on a joint project leveraging ML analyze EEG signals and to improve the treatment pathways for pediatric seizure resistant epilepsy patients.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**I am applying for PhD programs for Fall 2026** If you are a professor or a PhD student and you are interested in my research, please feel free to reach out to me at [lawrencerliu@ucla.edu].
+
+My resume is available [here](assets/pdf/Resume.pdf).
