@@ -24,12 +24,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 <!-- ![header](assets/img/header1.jpg) -->
-I am a first year Masters student at the Electrical and Computer Engineering Department at UCLA. I am fortunate to be advised by Professor [Lin F. Yang](http://drlinyang.net/). 
+I am a second year Masters student at the Electrical and Computer Engineering Department at UCLA. I am fortunate to be advised by Professor [Lin F. Yang](http://drlinyang.net/). 
 
 My research interests are in developing novel algorithms for reducing the computational cost of training, fine-tuning, and inferencing generative models. I am also interested in applications of ML to real-world problems, such as finance and healthcare. 
 
 I did my undergrad at UCLA as well, where I majored in Electrical Engineering. I worked with Professor [Vwani Roychowdhury](https://www.ee.ucla.edu/vwani-p-roychowdhury/) from the ECE department and Professor [Hiroki Nariai](https://www.uclahealth.org/providers/hiroki-nariai) from the UCLA Mattel Children's Hospital on a joint project leveraging ML analyze EEG signals and to improve the treatment pathways for pediatric seizure resistant epilepsy patients.
 
-**I am applying for PhD programs for Fall 2026** If you are a professor or a PhD student and you are interested in my research, please feel free to reach out to me at [lawrencerliu@ucla.edu].
+**I am applying for PhD programs for Fall 2026** If you are a Professor or a PhD student and you are interested in my research, please feel free to reach out to me at [lawrencerliu@ucla.edu].
 
-My resume is available [here](assets/pdf/Resume.pdf).
+My CV is available [here](assets/pdf/CV.pdf).
