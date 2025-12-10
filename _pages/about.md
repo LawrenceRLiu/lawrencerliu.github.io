@@ -30,6 +30,8 @@ My research interests are in developing novel algorithms for reducing the comput
 
 I did my undergrad at UCLA as well, where I majored in Electrical Engineering. I worked with Professor [Vwani Roychowdhury](https://www.ee.ucla.edu/vwani-p-roychowdhury/) from the ECE department and Professor [Hiroki Nariai](https://www.uclahealth.org/providers/hiroki-nariai) from the UCLA Mattel Children's Hospital on a joint project leveraging ML analyze EEG signals and to improve the treatment pathways for pediatric seizure resistant epilepsy patients.
 
+Outside of research, I enjoy running (especially long distance running) and lifting. Follow me on [Strava](https://www.strava.com/athletes/150311806)!
+
 **I am applying for PhD programs for Fall 2026** If you are a Professor or a PhD student and you are interested in my research, please feel free to reach out to me at [lawrencerliu@ucla.edu].
 
 My CV is available [here](assets/pdf/CV.pdf).
