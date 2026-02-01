@@ -32,6 +32,8 @@ I did my undergrad at UCLA as well, where I majored in Electrical Engineering. I
 
 Outside of research, I enjoy running (especially long distance running) and lifting. Follow me on [Strava](https://www.strava.com/athletes/150311806)!
 
+**ARMOR was accepted to ICLR 2026** See you in Rio!
+
 **I am applying for PhD programs for Fall 2026** If you are a Professor or a PhD student and you are interested in my research, please feel free to reach out to me at [lawrencerliu@ucla.edu].
 
 My CV is available [here](assets/pdf/CV.pdf).
